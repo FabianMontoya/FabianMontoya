@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FabianMontoya
+- 👋 Hi, I’m @FabianMontoya, or fmontoya too 😅, and I'm a enthusiastic Systems Engineer.
 - 👀 I’m interested in build the best version of my self.
-- 🌱 I’m currently learning deep front end tecnologies and development and tools of DevOps.
+- 🌱 I’m currently learning deep Front-End tecnologies, development and tools of DevOps.
 - 💞️ I’m looking to collaborate on great and interenting project that I can find where can I grow.
-- 📫 How to reach me ...
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/fmontoya01/)
 
 <!---
 FabianMontoya/FabianMontoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
