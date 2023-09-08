@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning deep Front-End tecnologies, development and tools of DevOps.
 - 💞️ I’m looking to collaborate on great and interenting project that I can find where can I grow.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/fmontoya01/)
+<!---
+---
+
+[![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianMontoya&show_icons=true&theme=dark)](https://github.com/FabianMontoya?tab=repositories)
+--->
 
 <!---
 FabianMontoya/FabianMontoya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
