@@ -94,8 +94,10 @@ $ echo "Always open to collaborate on interesting projects"
 <!-- Footer -->
 <div align="center">
  
-![Waves footer Dark](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer#gh-dark-mode-only)
-
-![Waves footer Light](https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:46b3e6&height=80&section=footer#gh-light-mode-only)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:46b3e6&height=80&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%" alt="footer-waves">
+  </picture>
+  
 </div>
