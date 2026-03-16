@@ -95,9 +95,9 @@ $ echo "Always open to collaborate on interesting projects"
 <div align="center">
  
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:1a1a2e,100:0f0f0f">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:2ea44f,100:46b3e6">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%" alt="footer-waves">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:1a1a2e%2C100:0f0f0f">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&ccolor=0:2ea44f%2C100:46b3e6">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e%2C100:0f0f0f&height=80&section=footer" width="100%" alt="footer-waves">
   </picture>
   
 </div>
