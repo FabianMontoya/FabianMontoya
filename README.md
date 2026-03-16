@@ -99,7 +99,6 @@ $ echo "Always open to collaborate on interesting projects"
     srcset="https://streak-stats.demolab.com?user=FabianMontoya&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak-stats.demolab.com?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </picture>
 
 </div>
