@@ -47,17 +47,9 @@ $ echo "Always open to collaborate on interesting projects"
 
 <a href="https://github.com/FabianMontoya">
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FabianMontoya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=8b949e&hide=prs&count_private=true"
-    height="150"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FabianMontoya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=8b949e&hide=prs&count_private=true"
-    height="150"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=FabianMontoya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=8b949e&hide=prs&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FabianMontoya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=8b949e&hide=prs&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FabianMontoya&show_icons=true&theme=default&hide_border=true&title_color=0969da&icon_color=1a7f37&text_color=57606a&hide=prs&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabianMontoya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=8b949e&hide=prs&count_private=true" />
 </picture>
 </a>
 
@@ -65,21 +57,11 @@ $ echo "Always open to collaborate on interesting projects"
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMontoya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5" />
 -->
 
-<a href="https://github.com/FabianMontoya">
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMontoya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5"
-    height="150"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMontoya&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5"
-    height="150"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMontoya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMontoya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMontoya&layout=compact&theme=default&hide_border=true&title_color=0969da&text_color=57606a&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMontoya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5" />
 </picture>
-</a>
 
 </div>
 
@@ -89,16 +71,10 @@ $ echo "Always open to collaborate on interesting projects"
 [![GitHub Streak](https://streak-stats.demolab.com?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/FabianMontoya)
 -->
 
-<a href="https://github.com/FabianMontoya">
 <picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=FabianMontoya&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=FabianMontoya&theme=default&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da" />
+ <img src="https://streak-stats.demolab.com?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </picture>
 
 </div>
