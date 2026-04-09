@@ -71,9 +71,9 @@ $ echo "Always open to collaborate on interesting projects"
  -->
  <a href="https://github.com/FabianMontoya">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff" />
-   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=FabianMontoya&theme=default&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da&sideNums=0969da" />
-  <img src="https://streak-stats.demolab.com?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-streak-stats.fmontoya.dev?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github-streak-stats.fmontoya.dev?user=FabianMontoya&theme=default&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da&sideNums=0969da" />
+  <img src="https://github-streak-stats.fmontoya.dev?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff" />
  </picture>
  </a>
 
