@@ -46,9 +46,9 @@ $ echo "Always open to collaborate on interesting projects"
  
  <a href="https://github.com/FabianMontoya">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jor1.onrender.com/api?username=FabianMontoya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=8b949e&hide=prs&count_private=true" />
-   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jor1.onrender.com/api?username=FabianMontoya&show_icons=true&theme=default&hide_border=true&title_color=0969da&icon_color=11a83c&text_color=57606a&hide=prs&count_private=true" />
-   <img src="https://github-readme-stats-jor1.onrender.com/api?username=FabianMontoya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=8b949e&hide=prs&count_private=true" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.fmontoya.dev/api?username=FabianMontoya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=8b949e&hide=prs&count_private=true" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github-stats.fmontoya.dev/api?username=FabianMontoya&show_icons=true&theme=default&hide_border=true&title_color=0969da&icon_color=11a83c&text_color=57606a&hide=prs&count_private=true" />
+   <img src="https://github-stats.fmontoya.dev/api?username=FabianMontoya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=8b949e&hide=prs&count_private=true" />
  </picture>
  </a>
 
@@ -57,9 +57,9 @@ $ echo "Always open to collaborate on interesting projects"
  -->
  <a href="https://github.com/FabianMontoya">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jor1.onrender.com/api/top-langs/?username=FabianMontoya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5" />
-   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-jor1.onrender.com/api/top-langs/?username=FabianMontoya&layout=compact&theme=default&hide_border=true&title_color=0969da&text_color=57606a&langs_count=5" />
-   <img src="https://github-readme-stats-jor1.onrender.com/api/top-langs/?username=FabianMontoya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.fmontoya.dev/api/top-langs/?username=FabianMontoya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github-stats.fmontoya.dev/api/top-langs/?username=FabianMontoya&layout=compact&theme=default&hide_border=true&title_color=0969da&text_color=57606a&langs_count=5" />
+   <img src="https://github-stats.fmontoya.dev/api/top-langs/?username=FabianMontoya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=5" />
  </picture>
  </a>
  
@@ -71,9 +71,9 @@ $ echo "Always open to collaborate on interesting projects"
  -->
  <a href="https://github.com/FabianMontoya">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-r19w.onrender.com?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff" />
-   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-r19w.onrender.com?user=FabianMontoya&theme=default&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da&sideNums=0969da" />
-  <img src="https://github-readme-streak-stats-r19w.onrender.com?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-streak-stats.fmontoya.dev?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github-streak-stats.fmontoya.dev?user=FabianMontoya&theme=default&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da&sideNums=0969da" />
+  <img src="https://github-streak-stats.fmontoya.dev?user=FabianMontoya&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff" />
  </picture>
  </a>
 
