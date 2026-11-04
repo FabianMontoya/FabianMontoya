@@ -9,9 +9,9 @@
 ╚═╝      ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝    ╚═════╝    ╚═╝   ╚═╝  ╚═╝
 ```
 
-[![Website](https://img.shields.io/badge/fmontoya.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://fmontoya.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmontoya01/)
-[![GitHub](https://img.shields.io/badge/@FabianMontoya-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FabianMontoya)
+[![Website](https://img.shields.io/badge/fmontoya.dev-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://fmontoya.link/q/my-website?utm_source=github&utm_medium=readme)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://fmontoya.link/q/linkedin?utm_source=github&utm_medium=readme)
+[![GitHub](https://img.shields.io/badge/@FabianMontoya-181717?style=flat-square&logo=github&logoColor=white)](https://fmontoya.link/q/my-github?utm_source=github&utm_medium=readme)
 
 </div>
 
